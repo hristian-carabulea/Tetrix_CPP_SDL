@@ -1,0 +1,3 @@
+D:\code\C++\tetris_tutorial_sdl\Release\tetris_tutorial_sdl.exe
+D:\code\tetris_tutorial_sdl\Release\tetris_tutorial_sdl.exe
+D:\code\tetris_tutorial_sdl - Copy\Release\tetris_tutorial_sdl.exe

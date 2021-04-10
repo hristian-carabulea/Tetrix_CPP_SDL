@@ -1,0 +1,12 @@
+﻿  Board.cpp
+  Game.cpp
+  IO.cpp
+  Main.cpp
+  Pieces.cpp
+     Creating library D:\code\tetris_tutorial_sdl - Copy\Release\tetris_tutorial_sdl.lib and object D:\code\tetris_tutorial_sdl - Copy\Release\tetris_tutorial_sdl.exp
+  Generating code
+  34 of 34 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tetris_tutorial_sdl.vcxproj -> D:\code\tetris_tutorial_sdl - Copy\Release\tetris_tutorial_sdl.exe
