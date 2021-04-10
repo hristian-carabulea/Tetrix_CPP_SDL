@@ -18,7 +18,7 @@ I corrected two errors, which occurred in Visual Studio 2019:
 The sourcecode is under the "Creative Commons - Attribution 3.0 Unported". That means you can copy, distribute and transmit the work and to adapt it. But you must attribute the work (but not in any way that suggests that they endorse you or your use of the work). The way of attribute the work is up to you. You can just mention me (Javier López). A backlink would be also appreciated.
 
 --------------------------------------------------------------
-I uploaded the project under the GNU License.
+I uploaded the project under the GNU General Public License v2.0.
 
 --------------------------------------------------------------
 Game Instructions: Use the following keys to play the game
