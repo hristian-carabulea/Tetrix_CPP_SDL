@@ -18,6 +18,9 @@ I corrected two errors, which occurred in Visual Studio 2019:
 The sourcecode is under the "Creative Commons - Attribution 3.0 Unported". That means you can copy, distribute and transmit the work and to adapt it. But you must attribute the work (but not in any way that suggests that they endorse you or your use of the work). The way of attribute the work is up to you. You can just mention me (Javier López). A backlink would be also appreciated.
 
 --------------------------------------------------------------
+I uploaded the project under the GNU License.
+
+--------------------------------------------------------------
 Game Instructions: Use the following keys to play the game
 --------------------------------------------------------------
 
@@ -29,7 +32,7 @@ Game Instructions: Use the following keys to play the game
 --------------------------------------------------------------
 The Windows game executable exists already in the Release folder under the name tetris_tutorial_sdl.exe.
 --------------------------------------------------------------
-To play the game you must have the following two files in the same directory of your choice:
+To play the game you must have the following two files in the same directory of your choice. They both can be found in the Release folder:
 
     1. tetris_tutorial_sdl.exe
     2. SDL.dll
