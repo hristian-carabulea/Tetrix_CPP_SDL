@@ -5,7 +5,7 @@ https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in
 
 Update 1: Tutorial updated for Visual Studio 2019 by Hristian Carabulea on February 13th, 2021 (carabulea.net)
 
-I corrected two errors, which occurred in Visual Studio 2019:
+I updated the game from a much older Visual Studio version to the Visual Studio 2019 version. And I uploaded the project to GitHub.
     
     1. Edited the original .vcproj file and removed all the <Tool /> entries for VCWebServiceProxyGeneratorTool
     2. Recompiled.
