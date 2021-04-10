@@ -9,9 +9,9 @@ I updated the game from a much older Visual Studio version to the Visual Studio 
     
     1. Edited the original .vcproj file and removed all the <Tool /> entries for VCWebServiceProxyGeneratorTool
     2. Recompiled.
-    3. I edited the newly created .vcxproj file and added the following to each <link> tag:
+    3. Edited the newly created .vcxproj file and added the following to each <link> tag:
            <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
-    4. I also changed the "Drop piece" key from x to v. It somehow feels better to the fingers. :-)
+    4. Also changed the "Drop piece" key from x to v. It somehow feels better to the fingers. :-)
 
 --------------------------------------------------------------
 
